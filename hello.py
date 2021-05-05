@@ -1,4 +1,8 @@
-def fun1():
-    print("hello")
+def fun_1():
+    print("Hello")
 
-fun1()
+def fun_2():
+    print("World")
+
+fun_1()
+fun_2()
